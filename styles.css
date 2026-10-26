@@ -1,0 +1,20 @@
+body{
+text-align: center;
+background-color:black;
+}
+
+img{
+width: 200px;
+}
+
+p{
+font-family: "Exposure VAR", "Iowan Old Style", Georgia, serif;
+color: white;
+font-size: 80px;
+font-weight: light;
+}
+
+h3{
+font-family: "Exposure VAR", "Iowan Old Style", Georgia, serif;
+color: white;
+}
